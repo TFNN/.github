@@ -5,4 +5,4 @@
 
 ### Projects
 - [TFCNNv1 used as a driving agent for a 3D car game.](https://github.com/mrbid/PoryDrive)
-- [TBVGG3 used to detect player models in CS:GO](https://github.com/TFCNN/Projects)
+- [TBVGG3 used to detect player models in CS:GO.](https://github.com/TFCNN/Projects)
