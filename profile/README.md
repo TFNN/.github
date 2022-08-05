@@ -4,6 +4,6 @@
 - Convolutional neural network: [TBVGG3](https://github.com/TFCNN/TBVGG3)
 
 ### Projects
-- [TFCNNv1 used as a driving agent for a 3D car game.](https://github.com/mrbid/PoryDrive)
-- [TBVGG3 used to detect player models in CS:GO.](https://github.com/TFCNN/Projects)
 - [TFCNNv3 used to extrapolate Zodiac compatibility into multiple inputs.](https://github.com/TFCNN/TFCNNv3)
+- [TBVGG3 used to detect player models in CS:GO.](https://github.com/TFCNN/Projects)
+- [TFCNNv1 used as a driving agent for a 3D car game.](https://github.com/mrbid/PoryDrive)
