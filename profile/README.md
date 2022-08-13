@@ -6,4 +6,4 @@
 ### Projects
 - [TFCNNv3 used to extrapolate Zodiac compatibility into multiple inputs.](https://github.com/TFCNN/TFCNNv3)
 - [TFCNNv3 used in an attempt to learn a low-pass filter.](https://github.com/jcwml/neural_filter_tfcnn)
-- [TBVGG3 used to detect player models in CS:GO.](https://github.com/TFCNN/Projects)
+- [TBVGG3 used to detect player models in CS:GO.](https://github.com/TFCNN/TBVGG3)
